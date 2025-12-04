@@ -1,9 +1,9 @@
-🔐 Gerador de Senhas Aleatórias em Python
+ Gerador de Senhas Aleatórias em Python
 
 Este projeto é um sistema simples e funcional para gerar senhas aleatórias utilizando Python.
 O objetivo é ajudar o usuário a criar senhas mais seguras, combinando letras maiúsculas, minúsculas, números e símbolos.
 
-📌 Funcionalidades
+- Funcionalidades
 
 Geração de senhas aleatórias conforme as regras definidas no script.
 
@@ -13,7 +13,7 @@ Processo rápido e simples de usar.
 
 Código fácil de entender e modificar — ideal para estudantes que estão aprendendo Python.
 
-🛠️ Tecnologias Utilizadas
+- Tecnologias Utilizadas
 
 Python 3
 
@@ -21,7 +21,7 @@ Biblioteca padrão:
 
 random
 
-▶️ Como executar o projeto
+- Como executar o projeto
 
 Certifique-se de ter o Python 3 instalado na sua máquina.
 Para verificar:
@@ -43,7 +43,7 @@ Execute o script:
 
 python sistema_senha_aleatoria_2.py
 
-📄 Exemplo de Uso
+- Exemplo de Uso
 
 O programa solicitará alguns dados e então gerará uma senha automaticamente conforme as regras internas do código.
 O usuário verá algo semelhante a:
@@ -52,7 +52,7 @@ O usuário verá algo semelhante a:
 Digite uma senha da sua preferência:
 Senha segura: A#f3@hL!9
 
-📚 Aprendizados Envolvidos
+- Aprendizados Envolvidos
 
 Este projeto reforça conceitos importantes de programação:
 
@@ -66,7 +66,7 @@ Lógica de segurança básica
 
 Entrada e saída de dados
 
-🚀 Possíveis Melhorias Futuras
+- Possíveis Melhorias Futuras
 
 Uso do módulo secrets (mais seguro que random)
 
@@ -80,12 +80,6 @@ Interface gráfica (Tkinter)
 
 Exportar senhas geradas para um arquivo
 
-👩‍💻 Autora
-
-Rafaela de Sousa
-Desenvolvedora Back-End em formação.
-
-⭐ Contribuições
 
 Sugestões e melhorias são sempre bem-vindas!
 Sinta-se livre para abrir issues ou enviar pull requests.
